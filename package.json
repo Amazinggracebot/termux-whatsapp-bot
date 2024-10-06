@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "NazwaS",
+  "author": "Amazing Grace",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "github:adiwajshing/baileys",
@@ -41,10 +41,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NazwaS/termux-whatsapp-bot.git"
+    "url": "https://github.com/Amazinggracebot/termux-whatsapp-bot.git"
   },
   "bugs": {
     "url": "https://github.com/NazwaS/termux-whatsapp-bot/issues"
   },
-  "homepage": "https://github.com/NazwaS/termux-whatsapp-bot#readme"
-}
+  "homepage": 
+"https://github.com/Amazinggracebot/termux-whatsapp-bot.git"
